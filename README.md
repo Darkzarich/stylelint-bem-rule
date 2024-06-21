@@ -1,4 +1,6 @@
-# stylelint-bem-rule
+# stylelint-two-dash-bem-rule
+
+![NPM Version](https://img.shields.io/npm/v/stylelint-two-dash-bem-rule)
 
 [BEM Convention](https://en.bem.info/) zero dependency rule enforcing [Two Dashes style](https://en.bem.info/methodology/naming-convention/#two-dashes-style) for [Stylelint](https://stylelint.io/).
 
