@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-bem-rule",
+  "version": "1.0.0",
+  "description": "BEM Convention rule enforcing Two Dashes style for stylelint\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkzarich/stylelint-bem-rule.git"
+  },
+  "keywords": [
+    "css",
+    "stylelint",
+    "BEM",
+    "rule"
+  ],
+  "author": "Darkzarich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darkzarich/stylelint-bem-rule/issues"
+  },
+  "homepage": "https://github.com/Darkzarich/stylelint-bem-rule#readme"
+}
